@@ -89,5 +89,7 @@ ENV/
 .ropeproject
 
 # Amazon dataset
-*.json.gz
+*.gz
+*.list
+*.mat
 images/
